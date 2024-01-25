@@ -1,0 +1,3 @@
+# Advent of Code 2023
+In my attempt to learn and practice Rust, here's Advent of Code 2023.
+aaaaand turning GitHub CoPilot OFF! Wish me luck...
